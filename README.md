@@ -1,5 +1,5 @@
 # rustcodes
 
-## Some rust projects
+## Rust code projects
 
-- [hello_world](hello_world)
+- **[hello_world](hello_world)**
