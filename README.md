@@ -1,5 +1,7 @@
 # rustcodes
 
+_My informal documentation of some Rust codes from my studies on it_
+
 ## Rust code projects
 
 - **[hello_world](hello_world)** (_simple rust hello world!_)
